@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import useFetch from "./components/useFetch"
 import Spinner from "react-bootstrap/Spinner";
 import Jobs from './components/Jobs';
